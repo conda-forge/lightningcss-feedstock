@@ -1,5 +1,5 @@
 context:
-  version: "1.31.0"
+  version: "1.32.0"
 
 package:
   name: lightningcss
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/parcel-bundler/lightningcss/archive/v${{ version }}.tar.gz
-  sha256: 38a06c0e27e384fff5c90ffdcf006e6951910d6d7c6f35cb31aca7ca1b45736d
+  sha256: ca67b9ba532d439f5f91d23debfc2543d6decac130ee88bc4c66202fc7173ad9
 
 build:
   number: 0
